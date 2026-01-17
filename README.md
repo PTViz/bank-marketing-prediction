@@ -120,6 +120,14 @@ notebooks/bank\_marketing.ipynb
 
 
 
+#### Author
+
+
+
+Petar Torlakov 
+
+
+
 #### Dataset Attribution
 
 
